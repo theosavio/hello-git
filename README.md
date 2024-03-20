@@ -10,4 +10,4 @@
 - Your pull request will be reviewed and merged to the main.
 
 ## Contributors:
-- Your Name
+- Dharshan A
